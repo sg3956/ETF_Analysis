@@ -51,17 +51,17 @@ And then we can import the required libraries and create temorary SQL database t
 
 `import sqlalchemy`
 
-# Create a temporary SQLite database and populate the database with content from the etf.db seed file
+Create a temporary SQLite database and populate the database with content from the etf.db seed file
 
 
 `database_connection_string = 'sqlite:///etf.db'`
 
-# Create an engine to interact with the SQLite database
+ Create an engine to interact with the SQLite database
 
 
 `engine = sqlalchemy.create_engine(database_connection_string)`
 
-# Confirm that table names contained in the SQLite database.
+Confirm that table names contained in the SQLite database.
 
 
 `engine.table_names()`
