@@ -1,6 +1,6 @@
 # ETF_Analysis
 
-This program aims to create a database to measure the performance of an ETF including 4 stocks with tricker symobols PYPL,GOST, GS,and SQ from 2016 to 2020. The program uses Voila library in addition to Python and SQL to conduct analysis while providing interactive dashboards.
+This program aims to create a database to measure the performance of an ETF including 4 stocks with tricker symobols PYPL,GOST, GS, and SQ from 2016 to 2020. The program uses Voila library in addition to Python and SQL to conduct the analysis and display interactive dashboards.
 
 
 ---
