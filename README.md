@@ -86,7 +86,7 @@ The following charts will appear upon running the program:
 
 
 
-![Screenshot](https://raw.githubusercontent.com/sg3956/ETF_Analysis/main/PYPL_Cumulative_Returns.png)
+![Screenshot](https://raw.githubusercontent.com/sg3956/ETF_Analysis/main/PYPL_Cummulative_Return.png)
 
 
 
