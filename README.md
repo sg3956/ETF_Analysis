@@ -64,7 +64,7 @@ Create a temporary SQLite database and populate the database with content from t
 
 Confirm that table names contained in the SQLite database.
 
-
+ 
 `engine.table_names()`
 
 
